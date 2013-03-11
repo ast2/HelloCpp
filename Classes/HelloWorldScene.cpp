@@ -78,6 +78,8 @@ bool HelloWorld::init()
     
     //hehe
 
+    //cmd
+    
     return true;
 }
 
